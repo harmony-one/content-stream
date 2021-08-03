@@ -5,6 +5,7 @@
 ## ContentStream
 
 ContentStream is a broadcast platform and marketplace allowing content creators to sell streams as bundles and NFT's.
+https://showcase.ethglobal.co/web3weekend/contentstream
 
 ## Technology
 
